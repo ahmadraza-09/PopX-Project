@@ -32,7 +32,7 @@ const Profile = () => {
       <div className="flex gap-4 items-start">
         <div className="relative">
           <img
-            src="https://randomuser.me/api/portraits/man/22.jpg"
+            src="https://i.pravatar.cc/150?img=33"
             alt="Profile"
             className="w-10 h-10 rounded-full object-cover"
           />
